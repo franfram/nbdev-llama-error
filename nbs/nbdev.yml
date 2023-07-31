@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-llama-error"
+  site-url: "https://franfram.github.io/nbdev-llama-error"
+  description: "reproduce error when importing llama_index in an nbdev project"
+  repo-branch: main
+  repo-url: "https://github.com/franfram/nbdev-llama-error"
